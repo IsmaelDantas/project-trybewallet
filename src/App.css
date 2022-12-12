@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #529a9b;
+  border: 2px solid black;
+  padding: 8px;
+}
+
+td {
+  background-color: #96c8c9;
+  border: 2px solid black;
+  padding: 8px;
+  text-align: center;
+}
